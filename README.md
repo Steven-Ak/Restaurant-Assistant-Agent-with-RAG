@@ -94,7 +94,7 @@ This ensures:
 
 * **LLM Provider**: OpenRouter (Chat Models)
 * **Embeddings**: Google Gemini Embeddings
-* **Vector Store**: Restaurant Knowledge Base
+* **Vector Store**: Supabase Vector Store
 * **Order Storage**: Google Sheets
 * **Messaging Platform**: Telegram Bot
 * **Memory**: Simple conversation memory
@@ -109,7 +109,7 @@ This ensures:
 * `Questions / Orders / General Prompts` – Intent-specific prompting
 * `AI Agent` – Core reasoning and orchestration unit
 * `orders_sheet_* tools` – Google Sheets operations
-* `restaurant_knowledge_base` – Supabase RAG vector store
+* `restaurant_knowledge_base` –  Restaurant Knowledge Base in vector store
 
 ---
 
