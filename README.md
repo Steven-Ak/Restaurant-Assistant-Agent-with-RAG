@@ -6,7 +6,7 @@ This project goes beyond a simple chatbot — it is a **multi-intent customer se
 
 ---
 
-Photo
+![Workflow Image](https://github.com/Steven-Ak/Restaurant-Assistant-Agent-with-RAG/blob/main/Restaurant%20Assistant%20Agent%20with%20RAG%20Workflow%20Screen.png)
 
 ---
 
